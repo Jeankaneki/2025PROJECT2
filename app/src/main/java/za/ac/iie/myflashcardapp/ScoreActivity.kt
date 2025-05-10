@@ -18,7 +18,7 @@ class ScoreActivity : AppCompatActivity() {
         Log.d(TAG, "ScoreActivity started.")
 
         // Initialize UI components
-        val scoreText: TextView = findViewById(R.id.textView7)
+        val scoreText: TextView = findViewById(R.id.textView5)
         val reviewButton: Button = findViewById(R.id.button5)
         val exitButton: Button = findViewById(R.id.button6)
         val feedbackText: TextView = findViewById(R.id.textView6)
