@@ -25,7 +25,7 @@ class ScoreActivity : AppCompatActivity() {
 
         // Retrieve data from QuestionActivity
         val score = intent.getIntExtra("SCORE", 0)
-        scoreText.text = "Your Score: $score"
+        scoreText.text = "Your Score: $score/5"
 
         // Display feedback based on score
         feedbackText.text = if (score >= 3) "Great job! Keep it up!" else "Keep practicing!"
