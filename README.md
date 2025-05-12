@@ -137,9 +137,8 @@ Std number: ST10492515.
 
 HMAW - Higher Certificate in mobile application and Web development module :IMAD5111(Assignment2)./2025RC
 
-My repository link: 
+My repository link: https://github.com/Jeankaneki/2025PROJECT2.git
 
-My youtube video link: 
-and about units tests link : 
+My youtube video link: https://www.youtube.com/watch?v=hbGMFaKezrY
 
 Thanks!
