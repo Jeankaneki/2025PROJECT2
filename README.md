@@ -108,10 +108,10 @@ The `ReviewActivity` displays all the quiz questions along with the user's answe
 
 
 ## Future Enhancements:
-- Add more questions and support for multiple categories.
-- Implement a timer for each question.
-- Customize UI with animations and themes.
-- Save user progress and scores using a database.
+Developpers can add more questions and support for multiple categories.
+Implement a timer for each question.
+Customize UI with animations and themes.
+Save user progress and scores using a database.
 
 With this detailed explanation of the app and its code, developers and users can understand how the app works and extend its functionality as needed.
 
@@ -129,7 +129,7 @@ welcome screen
 
 
 
-## ST INFO:
+## ST Info:
 
 Std Name : Jean Baptiste Mwana /
 
