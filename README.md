@@ -117,15 +117,15 @@ With this detailed explanation of the app and its code, developers and users can
 
 ##  Screenshots
 welcome screen
-
-
-
-
-
-
-
-
-
+![Screenshot_20250512_164052.png](Screenshot_20250512_164052.png)
+question activity 
+![Screenshot_20250512_164120.png](Screenshot_20250512_164120.png)
+![Screenshot_20250512_164157.png](Screenshot_20250512_164157.png)
+![Screenshot_20250512_164305.png](Screenshot_20250512_164305.png)
+score activity
+![Screenshot_20250512_164359.png](Screenshot_20250512_164359.png)
+review activity
+![Screenshot_20250512_164420.png](Screenshot_20250512_164420.png)
 
 
 
